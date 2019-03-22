@@ -2,4 +2,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cormorack/notebooks/master)
 
 # gallery
-These are gallery notebooks, transitional between web page content and quotidian data science notebooks
+
+These are the gallery notebooks. They are intended to run in binder...
+
+This content resides between the RCO website (polished, interactive, static content) and more quotidian data science notebooks.
