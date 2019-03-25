@@ -9,11 +9,9 @@ dependencies:
   - xarray 
   - dask
   - numpy  
-  - datetime 
   - scipy
   - ipywidgets 
   - traitlets 
-  - mpl_toolkits
 
   - pip:
     - yodapy
