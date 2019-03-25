@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python=3.6
   - matplotlib
-  - timeit
   - pandas  
   - netCDF4 
   - xarray 
@@ -12,8 +11,6 @@ dependencies:
   - numpy  
   - datetime 
   - scipy
-  - math
-  - random
   - ipywidgets 
   - traitlets 
   - mpl_toolkits
