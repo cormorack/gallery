@@ -3,36 +3,37 @@
 
 # gallery
 
-These are the gallery notebooks. They are intended to run in binder... once we get that debugged. Since binder
-is copying files from GitHub (and does not know my GitHub credentials) this repo has to be public. 
-
-"Gallery" notebooks reside between the RCO website (polished, interactive, plus static content) and more 
-quotidian ocean data science notebooks (with lots of detail added). 
+This *gallery notebook repo* loads and runs in binder and/or colab; so this repo is public.  It may of course also 
+be cloned for use. The goal here is to introduce regional cabled observatory (RCO) data in relation to other ocean data sources.
 
 
-### binder
+### binder and colab
 
-What is binder? It is a free service that builds a temporary Jupyter notebook environment. It does this based on
-a repository such as **cormorack/gallery**. That is: The binder environment can include data and
-can execute code; which one is free to modify. Since binder builds a *copy* it does not affect the source material.
-It is somewhat analogous to an Exploratorium exhibit: Demonstrating a scientific purpose, including some 
-interactivity, but not intended as an extended working environment. binder environments evaporate after a
-certain amount of time. 
+Binder and colab are free services that build a temporary Jupyter notebook environment around the content
+found here. Binder and colab environments can both include data and execute code. 
+This is analogous to an [Exploratorium](http://exploratorium.com) exhibit: Demonstrate scientific purpose and 
+include interactivity. 
+
 
 #### how to set up binder 
 
 - install the button (and edit it to point correctly) 
-- run `pip freeze > requirements.txt` and make that part of the repo
+- run `pip freeze > requirements.txt` and make that part of the repo... flag need env.yml version of this
 - test it
 
 
-#### How to get your own copy of this repo
+#### How to copy this repo
+
+You may wish to work from this (or another) repo in your own environment; for example a JupyterHub-hosted
+notebook environment on the web or on your own computer. 
+If you work on a downloaded copy and it is later accidentally deleted you lose that work. We suggest first making 
+your own repository (a copy) on GitHub to take advantage of the version control and reliability features. 
 
 This procedure is a bit elaborate so here is the summary first: 
-We'd like you to have access to a data visualization / interpretation notebook called `d'Orsay.ipynb`. 
-This notebook lives in a repository ('repo') owned by an organization called **Cormorack** (for obscure reasons). 
-You *could* just go grab the notebook file from here but you would also have to grab a bunch of other files 
-that it uses; so this would be tedious. Much better is if you make your own copy of this repo. This is an *import*. 
+
+This repository ('repo') is owned by an organization called **Cormorack** (for obscure reasons). 
+You make your own copy of this repo: Via *import*. That becomes your stable/safe version. While it 
+is on GitHub the code does not actually run. What follows from there is described in the next section.
 
 - Go to github.com
   - If you are reading this you may already *be* at GitHub; any case do make sure you are signed in
@@ -54,3 +55,17 @@ you'll see... wait for it... ***this message***.
 
 Any modifications you make to this repository are only applied to your copy. They do not affect the original
 source repo owned by **Cormorack**. 
+
+
+#### How to use this repo
+
+
+This section assumes the previous section went fine and you have your own `gallery` repo here on GitHub.
+
+
+- Log in to your Jupyter notebook server
+- Start a terminal window
+- Type in the command `git clone http://github.com/yourusername/gallery.git`
+- Return to your notebook server tab in your browser
+- Find and open the folder called `gallery`
+- Click on the notebook `ocean.ipynb`
