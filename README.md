@@ -35,19 +35,22 @@ You *could* just go grab the notebook file from here but you would also have to 
 that it uses; so this would be tedious. Much better is if you make your own copy of this repo. This is an *import*. 
 
 - Go to github.com
-  - If you are reading this you are actually already there...  
-- Sign in if you are not automatically signed in
+  - If you are reading this you may already *be* at GitHub; any case do make sure you are signed in
+  - On the upper-right-corner menu select **Your repositories**
 - Create a repository: It will be a copy of this Cormorack repository called 'gallery'; proceed as follows:
-  - Left side top: Click the **New** button. It is green and has a little book icon next to the word 'New'
-    - If you do not see this button: 
-      - Click on the word Repositories at the top of the page and it should show up; maybe at the upper right
-  - On the ensuing wizard page click on the link **Import a repository**
+  - Click the **New** button. It is green and has a little book icon next to the word 'New'
+  - On the ensuing wizard page click the link **Import a repository**
   - On *that* wizard page in the box 'Your old repository's clone URL' type in: http://github.com/cormorack/gallery.git
-  - Also in the Name box type: gallery
+  - Also:  In the Name box type: gallery
   - Click the **Begin import** button; this will start the process and you are done with this step 
+
 
 You'll get an email when it is done but it should only take a few moments. To check the results: 
 Return to your GitHub home page http://github.com and click on *Repositories*; where *gallery* should 
-now be apparent as a link. So click on that. You should see a file browser that lists some sub-folders and some 
+now be apparent as a link. Click that. You should see a file browser that lists some sub-folders and some 
 files including that all-important `d'Orsay.ipynb` notebook file. If you scroll down below the file browser
 you'll see... wait for it... ***this message***.
+
+
+Any modifications you make to this repository are only applied to your copy. They do not affect the original
+source repo owned by **Cormorack**. 
