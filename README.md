@@ -29,12 +29,13 @@ certain amount of time.
 #### How to get your own copy of this repo
 
 This procedure is a bit elaborate so here is the summary first: 
-We'd like you to have access to a data visualization / interpretation notebook called "d'Orsay.ipynb". 
-This notebook lives in a repository ('repo') owned by an organization called "Cormorack" (for obscure reasons). 
+We'd like you to have access to a data visualization / interpretation notebook called `d'Orsay.ipynb`. 
+This notebook lives in a repository ('repo') owned by an organization called **Cormorack** (for obscure reasons). 
 You *could* just go grab the notebook file from here but you would also have to grab a bunch of other files 
 that it uses; so this would be tedious. Much better is if you make your own copy of this repo. This is an *import*. 
 
 - Go to github.com
+  - If you are reading this you are actually already there...  
 - Sign in if you are not automatically signed in
 - Create a repository: It will be a copy of this Cormorack repository called 'gallery'; proceed as follows:
   - Left side top: Click the **New** button. It is green and has a little book icon next to the word 'New'
@@ -48,5 +49,5 @@ that it uses; so this would be tedious. Much better is if you make your own copy
 You'll get an email when it is done but it should only take a few moments. To check the results: 
 Return to your GitHub home page http://github.com and click on *Repositories*; where *gallery* should 
 now be apparent as a link. So click on that. You should see a file browser that lists some sub-folders and some 
-files including that all-important `d'Orsay.ipynb' notebook file. If you scroll down below the file browser
+files including that all-important `d'Orsay.ipynb` notebook file. If you scroll down below the file browser
 you'll see... wait for it... ***this message***.
