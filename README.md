@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/cormorack/gallery.svg?branch=master)](https://travis-ci.org/cormorack/gallery)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cormorack/gallery/master)
+[![Binder](http://binder.pangeo.io/v2/gh/pangeo-data/pangeo-example-notebooks/master)
 
 # gallery
 
