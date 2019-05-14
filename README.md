@@ -5,7 +5,15 @@
 # gallery
 
 If you are interested in oceanographic data science we invite you to explore the gallery notebook.
-This notebook runs Python code 
+This notebook runs Python code to analyze and display data from the Regional Cabled Observatory and
+from other sources. Calculations happen remotely (not on your computer) but the results are displayed 
+in your browser; and these results are in many cases adjustable so that you can explore. One visualization 
+sequence for example shows temperature, salinity and dissolved oxygen in the surface waters of the global 
+ocean. Each display has a slider to control the depth of the data shown to as far down as 5500 meters.
+
+The gallery notebook is much more than a collection of data visualizations however. It is a bridge to 
+the open source research ecosystem, a place where scientists freely share and create code for doing data
+science. 
 
 ## viewing **data_gallery**
 
