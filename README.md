@@ -1,7 +1,13 @@
 [![Build Status](https://travis-ci.org/cormorack/gallery.svg?branch=master)](https://travis-ci.org/cormorack/gallery)
 [![Binder](http://binder.pangeo.io/badge.svg)](http://binder.pangeo.io/v2/gh/cormorack/gallery/master)
 
+
 # gallery
+
+If you are interested in oceanographic data science we invite you to explore the gallery notebook.
+This notebook runs Python code 
+
+## viewing **data_gallery**
 
 This *gallery notebook repo* loads and runs in binder and/or colab; so this repo is public.  It may of course also 
 be cloned for use. The goal here is to introduce regional cabled observatory (RCO) data in relation to other ocean data sources.
