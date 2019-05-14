@@ -12,8 +12,8 @@ sequence for example shows temperature, salinity and dissolved oxygen in the sur
 ocean. Each display has a slider to control the depth of the data shown to as far down as 5500 meters.
 
 The gallery notebook is much more than a collection of data visualizations however. It is a bridge to 
-the open source research ecosystem, a place where scientists freely share and create code for doing data
-science. 
+the open source research ecosystem, a community where scientists freely create and share code for doing 
+data science. 
 
 ## viewing **data_gallery**
 
