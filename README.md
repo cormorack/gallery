@@ -2,6 +2,14 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cormorack/gallery/blob/master/data_gallery.ipynb)
 
+# Introduction
+
+This repository is concerned with ocean data science. It places a set of technology tools in relation to
+a large offshore observatory called the Regional Cabled Array (RCA). In addition to
+[this GitHub repository](https://github.com/cormorack/gallery) we also need a Python package
+called `yodapy` (for Your Ocean Data Access in PYthon). 
+[Here is a link to instructions for installing `yodapy`](https://github.com/cormorack/yodapy)
+
 
 # gallery
 
@@ -14,9 +22,11 @@ ocean. Each display has a slider to control the depth of the data shown to as fa
 
 The gallery notebook is much more than a collection of data visualizations however. It is a bridge to 
 the open source research ecosystem, a community where scientists freely create and share code for doing 
-data science. 
+data science.
+
 
 ## viewing **data_gallery**
+
 
 This *gallery notebook repo* loads and runs in binder and/or colab; so this repo is public.  It may of course also 
 be cloned for use. The goal here is to introduce regional cabled observatory (RCO) data in relation to other ocean data sources.
